@@ -1,0 +1,30 @@
+# Build outputs
+**/build/
+**/Debug/
+**/Release/
+*.o
+*.d
+*.lst
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE and user-specific files
+**/.vscode/
+*.uvguix.*
+*.user
+*.suo
+*.db
+*.opendb
+
+# Local archives and temporary files
+*.7z
+*.zip
+*.rar
+*.tmp
+*.bak
+*.log
+Thumbs.db
+.DS_Store
+
