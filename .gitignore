@@ -19,6 +19,7 @@
 *.opendb
 
 # Local archives and temporary files
+.gh-auth/
 *.7z
 *.zip
 *.rar
@@ -27,4 +28,3 @@
 *.log
 Thumbs.db
 .DS_Store
-
